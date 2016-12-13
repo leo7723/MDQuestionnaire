@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DBD0A7</color>
+    <color name="colorPrimaryDark">#DBD0A7</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="card_text">#20242E</color>
+    <color name="mdtp_white">#ffffff</color>
+</resources>
